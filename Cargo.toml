@@ -1,0 +1,8 @@
+[package]
+name = "optimus_iso_20022"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+backtrace = "0.3.73"
+iso-20022-sdk = { version = "0.1.0" }
